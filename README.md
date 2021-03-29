@@ -46,7 +46,7 @@ __4. 개발__
 김승회 ( 20113266 )
 + Application UI Developer
 + Email : hoikim05@naver.com
-+ Github Address : https://github.com/hoikim
++ Github Address : https://github.com/hoikim05
 ```
 
 ```markdown
