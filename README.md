@@ -3,11 +3,6 @@
 # 인테리어 스티커 (Interior Sticker)
 Team Page : https://kookmin-sw.github.io/capstone-2021-37/
 
-<ul>
-  <li>
-    ::marker
-    <a href="href="#1-프로잭트-소개"프로잭트 소개</a> </li>
-                              </ul>
 - 프로젝트 소개
   - 프로젝트 설치방법 및 데모, 사용방법, 프리뷰등을 readme.md에 작성.
   - Api나 사용방법등 내용이 많을경우 wiki에 꾸미고 링크 추가.
