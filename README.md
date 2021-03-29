@@ -32,10 +32,17 @@ Team Page : https://kookmin-sw.github.io/capstone-2021-37/
 프로젝트 소개하는 영상을 추가하세요
 
 ### 3. 팀원 소개
+```markdown
+#### 김성철
+```
+```markdown
+#### 김승회
+```
+```markdown
+#### 이윤서
+```
 
-팀을 소개하세요.
 
-팀원정보 및 담당이나 사진 및 SNS를 이용하여 소개하세요.
 
 ### 4. 개발
 
