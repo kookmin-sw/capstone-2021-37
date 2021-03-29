@@ -1,7 +1,9 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=381076&assignment_repo_type=GroupAssignmentRepo)
 
-## 인테리어 스티커 (Interior Sticker)
+# 인테리어 스티커 (Interior Sticker)
 Team Page : https://kookmin-sw.github.io/capstone-2021-37/
+
+
 - 프로젝트 소개
   - 프로젝트 설치방법 및 데모, 사용방법, 프리뷰등을 readme.md에 작성.
   - Api나 사용방법등 내용이 많을경우 wiki에 꾸미고 링크 추가.
@@ -14,12 +16,6 @@ Team Page : https://kookmin-sw.github.io/capstone-2021-37/
   - Source를 marster branch
   - Theme Chooser에서 태마선택
   - 수정후 팀페이지 확인하여 점검.
-
-**팀페이지 주소** -> https://kookmin-sw.github.io/ '{{자신의 리파지토리 아이디}}'
-
-
-
-## 내용에 아래와 같은 내용들을 추가하세요.
 
 ### 1. 프로잭트 소개
 
@@ -50,29 +46,6 @@ Team Page : https://kookmin-sw.github.io/capstone-2021-37/
 추가적인 내용은 자유롭게 작성하세요.
 
 
-## Markdown을 사용하여 내용꾸미기
-
-Markdown은 작문을 스타일링하기위한 가볍고 사용하기 쉬운 구문입니다. 여기에는 다음을위한 규칙이 포함됩니다.
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-자세한 내용은 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Support or Contact
 
