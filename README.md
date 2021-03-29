@@ -3,7 +3,7 @@
 # 인테리어 스티커 (Interior Sticker)
 Team Page : https://kookmin-sw.github.io/capstone-2021-37/
 
-[link]"#1-프로잭트-소개" 1. 프로젝트 소개
+1. 프로젝트 소개
 
  - 프로젝트 개요
  - 프로젝트 사용방법
