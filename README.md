@@ -4,9 +4,8 @@
 Team Page : https://kookmin-sw.github.io/capstone-2021-37/
 
 1. 프로젝트 소개
-
- - 프로젝트 개요
- - 프로젝트 사용방법
+   - 프로젝트 개요
+   - 프로젝트 사용방법
 
 2. 어플리케이션 기능 소개
 
