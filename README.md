@@ -36,23 +36,24 @@ Team Page : https://kookmin-sw.github.io/capstone-2021-37/
 김성철 ( 20152803 )
 + Project Manager & Team Leader & Application Developer
 + Email : wavyfire@naver.com 
-+ Github Address : <https://www.github.com/wavyfire>
++ Github Address : https://github.com/wavyfire
 ```
 
 ```markdown
 김승회 ( 20113266 )
 + Application UI Developer
 + Email : hoikim05@naver.com
-+ Github Address : <https://www.github.com/hoikim>
++ Github Address : https://github.com/hoikim
 ```
 
 ```markdown
 이윤서 (20181676 )
 + Git Hub Addressing
 + Email : wltjs610@kookmin.ac.kr
-+ Github Address : <https://www.github.com/ariYoon>
++ Github Address : https://github.com/ariYoon
 ```
 
+<https://github.com/ariYoon>
 
 ## 4. 개발
 
