@@ -47,7 +47,7 @@ Team Page : https://kookmin-sw.github.io/capstone-2021-37/
 ```
 
 ```markdown
-이윤서 (20181676 )
+이윤서 ( 20181676 )
 + Git Hub Addressing
 + Email : wltjs610@kookmin.ac.kr
 + Github Address : https://github.com/ariYoon
