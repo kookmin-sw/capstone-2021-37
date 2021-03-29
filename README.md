@@ -51,7 +51,7 @@ __4. 개발__
 
 ```markdown
 이윤서 ( 20181676 )
-+ Git Hub Addressing
++ Git Hub Addressing & Application Developer
 + Email : wltjs610@kookmin.ac.kr
 + Github Address : https://github.com/ariYoon
 ```
