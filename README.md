@@ -33,13 +33,13 @@ Team Page : https://kookmin-sw.github.io/capstone-2021-37/
 
 ### 3. 팀원 소개
 ```markdown
-#### 김성철
+김성철
 ```
 ```markdown
-#### 김승회
+김승회
 ```
 ```markdown
-#### 이윤서
+이윤서
 ```
 
 
