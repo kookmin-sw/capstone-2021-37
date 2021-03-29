@@ -53,8 +53,6 @@ Team Page : https://kookmin-sw.github.io/capstone-2021-37/
 + Github Address : https://github.com/ariYoon
 ```
 
-<https://github.com/ariYoon>
-
 ## 4. 개발
 
 추가적인 내용은 자유롭게 작성하세요.
