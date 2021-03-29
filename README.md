@@ -34,15 +34,20 @@ Team Page : https://kookmin-sw.github.io/capstone-2021-37/
 ## 3. 팀원 소개
 ```markdown
 김성철 ( 20152803 )
-프로젝트 매니저 & 37조 팀장 & 어플리케이션 개발자
++ Project Manager & Team Leader & Application Developer
++ Email : wavyfire@naver.com 
 ```
+
 ```markdown
 김승회 ( 20113266 )
-어플리케이션 UI 담당자
++ Application UI Developer
++ Email : hoikim05@naver.com
 ```
+
 ```markdown
 이윤서 (20181676 )
-git hub 담당자
++ Git Hub Addressing
++ Email : wltjs610@kookmin.ac.kr
 ```
 
 
