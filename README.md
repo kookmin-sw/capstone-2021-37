@@ -58,6 +58,8 @@ __4. 개발__
 ## 
 ### 4. 개발
 
-추가적인 내용은 자유롭게 작성하세요.
+https://user-images.githubusercontent.com/39540612/114058519-7d6e5600-98ce-11eb-921c-3d671a03da8f.mp4
+
+
 
 
