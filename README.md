@@ -58,7 +58,7 @@ __4. 개발__
 ## 
 ### 4. 개발
 
-[![View Video for 37 team](https://user-images.githubusercontent.com/39540612/114058519-7d6e5600-98ce-11eb-921c-3d671a03da8f.mp4)](https://user-images.githubusercontent.com/39540612/114058519-7d6e5600-98ce-11eb-921c-3d671a03da8f.mp4)
+[![View Video for 37 team](https://github.com/kookmin-sw/capstone-2021-37/blob/master/docs/main%20image.PNG?raw=true)](https://user-images.githubusercontent.com/39540612/114058519-7d6e5600-98ce-11eb-921c-3d671a03da8f.mp4)
 
 
 
