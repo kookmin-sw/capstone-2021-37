@@ -12,7 +12,6 @@ __2. 어플리케이션 기능 소개__
 
 __3. 팀원 소개__
 
-__4. 개발__
 
 ## 
 ### 1. 프로잭트 소개
@@ -22,6 +21,10 @@ __4. 개발__
 이 어플을 사용하여 간단하게 2D 이미지로 찍은 내 방에 원하는 가구를 스티커처럼 붙여보고 조절하면서 확인할 수 있습니다.   
 그렇게 찍은 내 방을 커뮤니티에 올려서 의견 교환도 가능하고, 혹은 전문가의 조언도 받아볼 수 있습니다.   
 최대한 비전문가의 눈높이에 맞춰서 접근하는 가벼운 인테리어 어플입니다.
+영상으로 소개부터 개발 내용까지 모두 보여드리겠습니다.
+
+[![View Video for 37 team](https://github.com/kookmin-sw/capstone-2021-37/blob/master/docs/main%20image.PNG?raw=true)](https://user-images.githubusercontent.com/39540612/114058519-7d6e5600-98ce-11eb-921c-3d671a03da8f.mp4)
+
 
 #### - 프로젝트 사용방법
    1. 사용자가 앱을 실행하면 메인화면으로 넘어가고, 커뮤니티 기능을 위해서는 추후에 로그인이 필요합니다.
@@ -56,12 +59,6 @@ __4. 개발__
 + Github Address : https://github.com/ariYoon
 ```
 ## 
-### 4. 개발
-
-영상으로 소개부터 개발 내용까지 모두 보여드리겠습니다!
-
-[![View Video for 37 team](https://github.com/kookmin-sw/capstone-2021-37/blob/master/docs/main%20image.PNG?raw=true)](https://user-images.githubusercontent.com/39540612/114058519-7d6e5600-98ce-11eb-921c-3d671a03da8f.mp4)
-
 
 
 
