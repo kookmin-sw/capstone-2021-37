@@ -1,77 +1,63 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=381076&assignment_repo_type=GroupAssignmentRepo)
-# Welcome to GitHub
 
-캡스톤 팀 생성을 축하합니다.
+# 인테리어 스티커 (Interior Sticker)
+Team Page : https://kookmin-sw.github.io/capstone-2021-37/
 
-## 팀소개 및 페이지를 꾸며주세요.
+## 개요
+__1. 프로젝트 소개__
+   - 프로젝트 개요
+   - 프로젝트 사용방법
 
-- 프로젝트 소개
-  - 프로젝트 설치방법 및 데모, 사용방법, 프리뷰등을 readme.md에 작성.
-  - Api나 사용방법등 내용이 많을경우 wiki에 꾸미고 링크 추가.
+__2. 어플리케이션 기능 소개__
 
-- 팀페이지 꾸미기
-  - 프로젝트 소개 및 팀원 소개
-  - index.md 예시보고 수정.
-
-- GitHub Pages 리파지토리 Settings > Options > GitHub Pages 
-  - Source를 marster branch
-  - Theme Chooser에서 태마선택
-  - 수정후 팀페이지 확인하여 점검.
-
-**팀페이지 주소** -> https://kookmin-sw.github.io/ '{{자신의 리파지토리 아이디}}'
-
-**예시)** 2020년 0조  https://kookmin-sw.github.io/capstone-2020-0/
+__3. 팀원 소개__
 
 
-## 내용에 아래와 같은 내용들을 추가하세요.
-
+## 
 ### 1. 프로잭트 소개
 
-프로젝트
+#### - 프로젝트 개요
+안녕하세요, 저희 37조의 프로젝트는 비전문가들의 인테리어 구상을 친절히 도와줄 인테리어 스티커입니다.   
+이 어플을 사용하여 간단하게 2D 이미지로 찍은 내 방에 원하는 가구를 스티커처럼 붙여보고 조절하면서 확인할 수 있습니다.   
+그렇게 찍은 내 방을 커뮤니티에 올려서 의견 교환도 가능하고, 혹은 전문가의 조언도 받아볼 수 있습니다.   
+최대한 비전문가의 눈높이에 맞춰서 접근하는 가벼운 인테리어 어플입니다.   
+영상으로 소개부터 개발 내용까지 모두 보여드리겠습니다.
 
-### 2. 소개 영상
-
-프로젝트 소개하는 영상을 추가하세요
-
-### 3. 팀 소개
-
-팀을 소개하세요.
-
-팀원정보 및 담당이나 사진 및 SNS를 이용하여 소개하세요.
-
-### 4. 사용법
-
-소스코드제출시 설치법이나 사용법을 작성하세요.
-
-### 5. 기타
-
-추가적인 내용은 자유롭게 작성하세요.
+[![View Video for 37 team](https://github.com/kookmin-sw/capstone-2021-37/blob/master/docs/main%20image.PNG?raw=true)](https://user-images.githubusercontent.com/39540612/114058519-7d6e5600-98ce-11eb-921c-3d671a03da8f.mp4)
 
 
-## Markdown을 사용하여 내용꾸미기
+#### - 프로젝트 사용방법
+   1. 사용자가 앱을 실행하면 메인화면으로 넘어가고, 커뮤니티 기능을 위해서는 추후에 로그인이 필요합니다.
+   2. 메인화면에서 '가구 붙여보기' 아이콘을 클릭합니다.
+   3. 가구 붙여보기 UI를 통해 필요한 사항을 확인하고, 태그를 통해 가구를 검색합니다.
+   4. 가구를 붙여넣은 사용자는 방 사진을 찍기 위해서 자신의 방 이미지를 넣는 창을 터치하고, 가이드 화면을 제공받습니다.
+   5. 촬영하기 버튼을 통해 가구에 알맞는 각도로 방을 촬영한 사용자는 원하는 가구를 붙여보는 기능을 사용합니다.
+## 
 
-Markdown은 작문을 스타일링하기위한 가볍고 사용하기 쉬운 구문입니다. 여기에는 다음을위한 규칙이 포함됩니다.
-
+### 2. 어플리케이션 기능 소개 영상
+{youtube 링크 추가 예정}
+## 
+### 3. 팀원 소개
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+김성철 ( 20152803 )
++ Project Manager & Team Leader & Application Developer
++ Email : wavyfire@naver.com 
++ Github Address : https://github.com/wavyfire
 ```
 
-자세한 내용은 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+```markdown
+김승회 ( 20113266 )
++ Application UI Developer
++ Email : hoikim05@naver.com
++ Github Address : https://github.com/hoikim05
+```
 
-### Support or Contact
+```markdown
+이윤서 ( 20181676 )
++ Git Hub Addressing & Application Developerp
++ Github Address : https://github.com/ariYoon
+```
+## 
 
-readme 파일 생성에 추가적인 도움이 필요하면 [도움말](https://help.github.com/articles/about-readmes/) 이나 [contact support](https://github.com/contact) 을 이용하세요.
+
+
